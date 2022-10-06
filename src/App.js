@@ -44,7 +44,7 @@ function App() {
   return (
     <div className="todo">
       <div className="todo__header">
-        <h4>Список задач</h4>
+        <h4>Мои задачи</h4>
       </div>
       <TaskField onAddTask={onAddTask} />
       <div className="todo__list">
