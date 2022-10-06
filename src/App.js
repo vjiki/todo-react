@@ -12,6 +12,10 @@ function App() {
       text: 'Разработать ToDo на ReactJS',
       completed: false,
     },
+    {
+      text: 'Задеплоить на Vercel',
+      completed: false,
+    },
   ]);
 
   const onToggleCompleted = (index) => {
