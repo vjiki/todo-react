@@ -14,7 +14,7 @@ function App() {
     },
     {
       text: 'Задеплоить на Vercel',
-      completed: false,
+      completed: true,
     },
   ]);
 
