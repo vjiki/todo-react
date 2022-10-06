@@ -16,6 +16,10 @@ function App() {
       text: 'Задеплоить на Vercel',
       completed: true,
     },
+    {
+      text: 'Задеплоить на netlify',
+      completed: true,
+    },
   ]);
 
   const onToggleCompleted = (index) => {
