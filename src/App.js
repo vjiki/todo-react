@@ -20,6 +20,10 @@ function App() {
       text: 'Задеплоить на netlify',
       completed: true,
     },
+    {
+      text: 'Задеплоить на github-pages',
+      completed: true,
+    },
   ]);
 
   const onToggleCompleted = (index) => {
